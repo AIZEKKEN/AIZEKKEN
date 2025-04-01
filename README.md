@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I've been learning to code for 2 years. Front-end -> HTML CSS JAVASCRIPT Framework -> Vue.js React.js Bootstrap Back-end -> PHP Node.js Database -> PhpMyAdmin MySQL MongoDB All of this is just basic learning. And I want to learn more to use it in my work.
 
-* 🌍  I'm based in ์Nakhon Pathom ,Thailand
+* 🌍  I'm based in Nakhon Pathom ,Thailand
 * ✉️  You can contact me at [dreearezagun@gmail.com](mailto:dreearezagun@gmail.com)
 
 ### Skills
